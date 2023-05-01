@@ -1,0 +1,12 @@
+rg_name = "ts-rg"
+location = "eastus"
+vnet_name = "ts-vnet"
+vnet_address_space = ["10.60.0.0/22"]
+subnet_name = "ts-subnet"
+subnet_address_prefixes = ["10.60.0.0/24"]
+nsg_name = "ts-nsg"
+vm1_name = "ts-vm1"
+vm2_name = "ts-vm2"
+vm_username = "ts_username"
+vm_password = "ts_password123"
+lb_name = "ts-lb"
